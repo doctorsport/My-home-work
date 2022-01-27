@@ -1,3 +1,0 @@
-inform 170 56 85
-Phisics 40 85 89
-Sport 30 50 45
